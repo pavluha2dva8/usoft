@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/usoft/static/css/main.9df212a3.chunk.css",
+    "main.js": "/usoft/static/js/main.eb0c201a.chunk.js",
+    "main.js.map": "/usoft/static/js/main.eb0c201a.chunk.js.map",
+    "runtime-main.js": "/usoft/static/js/runtime-main.f50eed3d.js",
+    "runtime-main.js.map": "/usoft/static/js/runtime-main.f50eed3d.js.map",
+    "static/js/2.1b10fa0e.chunk.js": "/usoft/static/js/2.1b10fa0e.chunk.js",
+    "static/js/2.1b10fa0e.chunk.js.map": "/usoft/static/js/2.1b10fa0e.chunk.js.map",
+    "index.html": "/usoft/index.html",
+    "precache-manifest.6d51b5538f8d5967458ba33be819c020.js": "/usoft/precache-manifest.6d51b5538f8d5967458ba33be819c020.js",
+    "service-worker.js": "/usoft/service-worker.js",
+    "static/css/main.9df212a3.chunk.css.map": "/usoft/static/css/main.9df212a3.chunk.css.map",
+    "static/js/2.1b10fa0e.chunk.js.LICENSE.txt": "/usoft/static/js/2.1b10fa0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f50eed3d.js",
+    "static/js/2.1b10fa0e.chunk.js",
+    "static/css/main.9df212a3.chunk.css",
+    "static/js/main.eb0c201a.chunk.js"
+  ]
+}
