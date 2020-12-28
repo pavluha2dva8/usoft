@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/usoft/static/css/main.55775859.chunk.css",
-    "main.js": "/usoft/static/js/main.95b9e978.chunk.js",
-    "main.js.map": "/usoft/static/js/main.95b9e978.chunk.js.map",
+    "main.js": "/usoft/static/js/main.ef1b49c7.chunk.js",
+    "main.js.map": "/usoft/static/js/main.ef1b49c7.chunk.js.map",
     "runtime-main.js": "/usoft/static/js/runtime-main.db5b211b.js",
     "runtime-main.js.map": "/usoft/static/js/runtime-main.db5b211b.js.map",
     "static/js/2.b201b547.chunk.js": "/usoft/static/js/2.b201b547.chunk.js",
     "static/js/2.b201b547.chunk.js.map": "/usoft/static/js/2.b201b547.chunk.js.map",
     "index.html": "/usoft/index.html",
-    "precache-manifest.a3af26cba7da685ca775c9296ae1ed88.js": "/usoft/precache-manifest.a3af26cba7da685ca775c9296ae1ed88.js",
+    "precache-manifest.6616e8a179c27e0a87ebd24c1ac8ed8e.js": "/usoft/precache-manifest.6616e8a179c27e0a87ebd24c1ac8ed8e.js",
     "service-worker.js": "/usoft/service-worker.js",
     "static/css/main.55775859.chunk.css.map": "/usoft/static/css/main.55775859.chunk.css.map",
     "static/js/2.b201b547.chunk.js.LICENSE.txt": "/usoft/static/js/2.b201b547.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.db5b211b.js",
     "static/js/2.b201b547.chunk.js",
     "static/css/main.55775859.chunk.css",
-    "static/js/main.95b9e978.chunk.js"
+    "static/js/main.ef1b49c7.chunk.js"
   ]
 }
